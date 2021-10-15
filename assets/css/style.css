@@ -84,6 +84,10 @@ ul li:hover {
   width: 3000px;
 }
 
+body {
+  background-color: black;
+}
+
 /* End of Video */
 
 /* Media Queries */
