@@ -82,6 +82,9 @@ ul li:hover {
   text-align: center;
   max-width: 100%;
   width: 3000px;
+  height: auto;
+  overflow: hidden;
+  opacity: 90%;
 }
 
 body {
