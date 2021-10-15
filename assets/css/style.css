@@ -76,6 +76,16 @@ ul li:hover {
 }
 /* End of Header CSS */
 
+/* Start of Video */
+#myVideo {
+  position: fixed;
+  text-align: center;
+  max-width: 100%;
+  width: 3000px;
+}
+
+/* End of Video */
+
 /* Media Queries */
 @media screen and (max-width: 980px) {
   header {
